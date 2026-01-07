@@ -1,6 +1,5 @@
 # Spring Boot Hello World Hi
-# This is for test lab
-# test
+# This is for test lab 1
 
 A spring boot enabled hello world application
 
